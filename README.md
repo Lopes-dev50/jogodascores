@@ -29,4 +29,4 @@ O **Jogo das Cores** é um desafio onde o jogador deve acertar a sequência de c
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/jogo-das-cores-swiftui.git
+   git clone https://github.com/seu-usuario/jogodascores.git
